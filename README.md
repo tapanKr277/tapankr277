@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <!-- Cover Image -->
 <p align="center">
-  <img src="./A_black_and_white_digital_illustration_in_vector_a.png" alt="Software Engineer Banner" width="100%" />
+  <img src="https://drive.google.com/file/d/1LashT36tB0JQJQSaBPM3VnEeujd770Nh/view?usp=drivesdk" alt="Software Engineer Banner" width="100%" />
 </p>
 
 # 👨‍💻 Tapan Kumar — Software Engineer
