@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 # 👨‍💻 Tapan Kumar — Software Engineer
 
-Hi, I'm **Tapan Kumar**, a passionate Full Stack Developer blending creativity with functionality. I specialize in building scalable, user-centric software using modern frameworks such as **React**, **Angular**, **Django** and **Spriingboot**.
+Hi, I'm **Tapan Kumar**, a passionate Full Stack Developer blending creativity with functionality. I specialize in building scalable, user-centric software using modern frameworks such as **React**, **Angular**, **Django** and **Springboot**.
 
 ---
 
@@ -50,7 +50,10 @@ Hi, I'm **Tapan Kumar**, a passionate Full Stack Developer blending creativity w
 `Django` `Springboot` `Django REST Framework` `PostgreSQL` `MySql` `SqlLite`
 
 ### Tools & Platforms:
-`Celery` `Celery Beat` `Docker` `Git` `AWS` `Vercel` `Postman` `VS Code` `Prometheus` `Grafana` `intellij`
+`Celery` `Celery Beat` `Docker` `Git` `AWS` `Vercel` `Postman` `VS Code` `Prometheus` `Grafana` `intellij` 
+
+### Other Skills:
+`Microservices` `Redux Query Toolkit` `swagger` `sonarqube` `Githhub` `Github Actions`
 
 ---
 
