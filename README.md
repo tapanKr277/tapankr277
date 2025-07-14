@@ -24,77 +24,96 @@ Here are some ideas to get you started:
 
 # 👨‍💻 Tapan Kumar — Software Engineer
 
-Hi, I'm **Tapan Kumar**, a passionate Full Stack Developer blending creativity with functionality. With a love for building scalable web applications, I specialize in crafting user-centric software using modern frameworks like **React**, **Next.js**, **Django**, and **Node.js**.
+Hi, I'm **Tapan Kumar**, a passionate Full Stack Developer blending creativity with functionality. I specialize in building scalable, user-centric software using modern frameworks such as **React**, **Next.js**, **Django**, and **Node.js**.
 
 ---
 
 ## 🚀 About Me
 
-- 🧠 Self-driven engineer passionate about solving complex problems.
-- 🔍 Experienced in full-cycle development: from wireframing to deployment.
-- 💡 Believer in clean architecture, performance, and user-first design.
-- 🌐 Currently exploring **AI-integrated web systems** and **DevOps automation**.
+- 🧠 Self-driven engineer with a strong foundation in DSA and backend systems.
+- 🔍 Proficient in full-cycle development — from planning and wireframing to deployment and monitoring.
+- 💡 Advocate of clean architecture, maintainable code, and performance optimization.
+- 🌐 Currently exploring **AI-integrated web systems** and **DevOps automation tools** like **Celery**, **Prometheus**, and **Grafana**.
+- 🎯 Actively contributing to backend migrations and building real-time tools for enterprise systems.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:**  
+### Languages:
 `JavaScript` `TypeScript` `Python` `Java` `SQL`
 
-**Frontend:**  
+### Frontend:
 `React.js` `Next.js` `Redux` `Tailwind CSS` `HTML5` `CSS3`
 
-**Backend:**  
-`Django` `Node.js` `Express` `PostgreSQL` `MongoDB`
+### Backend:
+`Django` `Django REST Framework` `Node.js` `Express` `PostgreSQL` `MongoDB`
 
-**Tools & Platforms:**  
-`Git` `Docker` `AWS` `Vercel` `Netlify` `Firebase` `Jest` `Postman` `VS Code`
+### Tools & Platforms:
+`Celery` `Celery Beat` `Docker` `Git` `AWS` `Vercel` `Netlify` `Firebase` `Jest` `Postman` `VS Code` `Prometheus` `Grafana`
 
 ---
 
 ## 📁 Featured Projects
 
-### 🔹 [E-Commerce Platform](https://ecommerce-client-tapan.vercel.app/)
-A full-featured e-commerce solution with product management, user authentication, cart, orders, and payment integration.
-> **Tech:** React, Django, Stripe API, PostgreSQL
+### 🔹 [E-Commerce Platform](https://www.tapmad.space)
+> A full-featured e-commerce solution with user authentication, cart, product management, and Stripe integration.
 
-### 🔹 [Price Optimization Tool]
-Optimizes pricing for B2B/B2C products using demand forecasting and rule-based models.
-> **Tech:** Django, Pandas, PostgreSQL, Matplotlib
-
-### 🔹 [TapMad Portfolio](https://www.tapmad.space)
-My personal portfolio showcasing my work, projects, and resume in one place.
+**Tech:** React, Django, Stripe API, PostgreSQL
 
 ---
 
-## 💼 Experience
+### 🔹 Price Optimization Tool
+> Optimizes product pricing using rule-based models and demand forecasting.
 
-### 🚀 Freelance Developer | Remote  
-**2022 - Present**  
-- Built dynamic dashboards for client metrics using Django & Chart.js  
-- Integrated third-party APIs (Google Auth, RazorPay, etc.)  
-- Automated deployment pipelines using GitHub Actions and Docker
+**Tech:** Django, Pandas, Matplotlib, PostgreSQL
 
-### 🏢 Internships & Collaborations  
-- **Startup XYZ**: Built a feedback analytics dashboard  
-- **Hackathons**: Winner of CodeSprint '24 (AI-Powered Price Tool)
+---
+
+### 🔹 TapMad Portfolio
+> My personal portfolio built to showcase my work, resume, and project links all in one place.
+
+**Tech:** React, Tailwind CSS, Vercel
+
+---
+
+## 💼 Work Experience
+
+### 🔹 Analyst — Capgemini (2024–Present)
+- Migrated enterprise apps from Spring Boot to Django for backend simplification.
+- Refactored Java microservices to Django REST APIs.
+- Integrated Celery and Celery Beat for background jobs and scheduled tasks.
+
+### 🔹 Graduate Engineer Trainee — Jio Platforms (2023–2024)
+- Built a DevOps monitoring dashboard using Django and React.
+- Designed backend alert systems with PostgreSQL and visualization dashboards.
+
+### 🔹 Full Stack Developer — Auctopus Technologies (2023)
+- Created network automation tools with React, Redux, and Django.
+- Built REST APIs and scheduled background processes using Celery Beat.
 
 ---
 
 ## 🎓 Education
 
-**Bachelor of Technology in Computer Science**  
-XYZ University | 2019 - 2023
+**B.Tech in Information Technology**  
+Maulana Abul Kalam Azad University of Technology, West Bengal  
+2020 – 2023
+
+---
+
+## 🏆 Certifications
+
+- Python with Data Structures – HackerRank
+- React – HackerRank
+- Java – HackerRank
+- JavaScript – HackerRank
+- Problem Solving – HackerRank
 
 ---
 
 ## 📫 Connect with Me
 
-- 🌐 **Portfolio**: [tapmad.space](https://www.tapmad.space)  
-- 💼 **LinkedIn**: [linkedin.com/in/tapankumar](https://linkedin.com/in/tapankumar)  
-- 📨 **Email**: [your-email@example.com]  
-
----
-
-> ⚡ *“Code is not just a skill. It's a superpower.”*
+- 🌐 Portfolio: [tapmad.space](https://www.tapmad.space)
+- 💼 LinkedIn: [linkedin.com/in/tapan-kumar-0447691b0](https://www.linkedin.com/in/tapan-kumar-0447691b0)
+- 📧 Email: tapankr277@gmail.com
