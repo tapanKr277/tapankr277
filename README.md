@@ -48,7 +48,7 @@ A real-time weather application that fetches and displays current weather data u
 ### 📚 Gyanpath - Quiz Management System
 
 A full-stack microservices-based quiz platform with role-based access, student performance tracking, and dynamic dashboards.  
-**Tech Stack:** React, Spring Boot, Eureka, Docker, PostgreSQL  
+**Tech Stack:** Angular, Spring Boot, Eureka, Feign, Docker, MySql, Microservice, Oauth, Spring Security. 
 🔗 [Live Demo](https://quiz-management-system-smoky.vercel.app)
 
 ---
