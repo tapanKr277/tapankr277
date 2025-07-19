@@ -16,7 +16,7 @@
   <a href="mailto:tapankr277@gmail.com">
     <img src="https://img.shields.io/badge/📫%20Email-tapankr277@gmail.com-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/tapan-kumar-0447691b0">
+  <a href="https://www.linkedin.com/in/tapan-kumar-0447691b0" target="_blank">
     <img src="https://img.shields.io/badge/💼%20LinkedIn-tapan--kumar-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
