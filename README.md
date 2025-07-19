@@ -31,6 +31,35 @@
 
 ---
 
+## 📂 Projects
+
+Here are some of the major projects I've built and deployed:
+
+---
+
+### 🌤️ Weather Broadcast
+
+A real-time weather application that fetches and displays current weather data using external APIs.  
+**Tech Stack:** React, OpenWeatherMap API, Tailwind CSS  
+🔗 [Live Demo](https://weather-broadcast-tapan.vercel.app)
+
+---
+
+### 📚 Gyanpath - Quiz Management System
+
+A full-stack microservices-based quiz platform with role-based access, student performance tracking, and dynamic dashboards.  
+**Tech Stack:** React, Spring Boot, Eureka, Docker, PostgreSQL  
+🔗 [Live Demo](https://quiz-management-system-smoky.vercel.app)
+
+---
+
+### 👨‍💻 Personal Portfolio
+
+A professional portfolio showcasing my experience, skills, and projects. Built for performance and responsiveness.  
+**Tech Stack:** React, Tailwind CSS, Framer Motion  
+🔗 [Visit Portfolio](https://www.tapmad.space)
+
+
 ## 🛠️ Tech Stack
 
 ```yaml
