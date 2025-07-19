@@ -53,6 +53,14 @@ A full-stack microservices-based quiz platform with role-based access, student p
 
 ---
 
+### 🛒E-commerce - Greetkart
+A full-featured E-Commerce platform built with Django, designed to deliver a seamless online shopping experience. It includes secure user authentication, product management, cart functionality, order tracking, and admin controls — all backed by a scalable and maintainable backend.
+🔗 [Live Demo](https://e-commerce-o8i9.onrender.com/)
+
+---
+
+A Django Application 
+
 ### 👨‍💻 Personal Portfolio
 
 A professional portfolio showcasing my experience, skills, and projects. Built for performance and responsiveness.  
