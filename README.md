@@ -59,7 +59,12 @@ A full-featured E-Commerce platform built with Django, designed to deliver a sea
 
 ---
 
-A Django Application 
+📝 Notes App - React + Django 
+A full-stack notes application to create, update, and delete notes with persistent storage and intuitive UI.
+Tech Stack: React, Django REST Framework, Render, React Router, Tailwind CSS, Toastify.
+🔗 [Live Demo](https://notes.tapmad.space/)
+
+---
 
 ### 👨‍💻 Personal Portfolio
 
